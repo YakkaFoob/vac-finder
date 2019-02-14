@@ -1,5 +1,5 @@
 # VAC Finder
-Be petty and find a player's similar VACed friends.
+Use language processing to find a player's alternate accounts used to evade VAC bans.
 
 ## Setup
 
