@@ -11,4 +11,6 @@ npm install
 npm start
 ```
 
-Example: [http://localhost:8080/user/76561198200239005/compare/friends](http://localhost:8080/user/76561198200239005/compare/friends) will find VACed mutual friends similar to user `76561198200239005`
+Example: 
+
+[http://localhost:8080/user/76561198200239005/compare/friends](http://localhost:8080/user/76561198200239005/compare/friends) will find VACed mutual friends similar to user `76561198200239005`
